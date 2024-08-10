@@ -1,6 +1,6 @@
 <body>
   
-  ### I'm Isabella Vanderlinde Berkembrock, student of Computer Science ;)
+  ### I'm Isabella Vanderlinde Berkembrock, Computer Science student ;)
 
 - Computer Science Student - PUCPR
 - E-mail: berkembrockisabella@gmail.com
