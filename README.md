@@ -7,22 +7,6 @@
 - Linkedin: www.linkedin.com/in/isabella-vanderlinde-berkembrock-023043269
 - Currículo Lattes: http://lattes.cnpq.br/0442351213878668
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=isabella1709&show_icons=true&theme=vision-friendly-dark"
-    media="(prefers-color-scheme: dark)"
-    height= "180cm"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=isabella1709&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=isabella1709&show_icons=true" />
-</picture>
-  <img height= "180cm" width="380cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabella1709&layout=compact&theme=vision-friendly-dark"/>
-</div>
-
 ##
 
 ### Working on:
